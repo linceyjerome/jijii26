@@ -6,5 +6,5 @@ i'm currently working on a Discord bot with multiple fonctions for any type of s
 ## 🌱 What i'm currently learning 
 Javascript framework Vue.js
 ## 💬 Ask me about
-how to cook a chicken 
+Ask me how to sleep 😀
 ### ⚡ Fun fact: the prononciation of my first name its Lindsay without the letter d 
