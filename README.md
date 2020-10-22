@@ -1,13 +1,13 @@
 ## Hi there 👋 
 My name it's Lincey Jérôme, i'm currently a college student in software development
 
-#### 🔭 What i’m currently working
+## 🔭 What i’m currently working
 A Discord bot with multiple fonctions
-#### 🌱 What i'm currently learning 
+## 🌱 What i'm currently learning 
 Javascript framework Vue.js
-#### 💬 Ask me about
+## 💬 Ask me about
 how to cook a chicken 
-#### 📫 How to reach me
+## 📫 How to reach me
 https://twitter.com/jijii03
 
-⚡ Fun fact: the prononciation of my first name its Lindsay without the letter d 
+### ⚡ Fun fact: the prononciation of my first name its Lindsay without the letter d 
