@@ -1,14 +1,13 @@
-### Hi there 👋
+## Hi there 👋 
+My name it's Lincey Jérôme, i'm currently a college student in software development
 
-<!--
-**jijii26/jijii26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🔭 What i’m currently working
+A Discord bot with multiple fonctions
+#### 🌱 What i'm currently learning 
+Javascript framework Vue.js
+#### 💬 Ask me about
+how to cook a chicken 
+#### 📫 How to reach me
+https://twitter.com/jijii03
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on a Discord bot with multiple fonctions
-- 🌱 I’m currently learning Javascript framework Vue.js
-- 💬 Ask me about how to cook a chicken 
-- 📫 How to reach me: https://twitter.com/jijii03
-- 😄 Pronouns: Lincey
-- ⚡ Fun fact: Lincey its lindsay without the letter d 
--->
+⚡ Fun fact: the prononciation of my first name its Lindsay without the letter d 
