@@ -7,7 +7,4 @@ A Discord bot with multiple fonctions
 Javascript framework Vue.js
 ## 💬 Ask me about
 how to cook a chicken 
-## 📫 How to reach me
-https://twitter.com/jijii03
-
 ### ⚡ Fun fact: the prononciation of my first name its Lindsay without the letter d 
