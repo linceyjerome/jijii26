@@ -1,10 +1,10 @@
 ## Hi there 👋 
-My name it's Lincey Jérôme, i'm currently a college student in software development
+My name it's Lincey Jérôme, i'm a software developer
 
 ## What i’m currently working 🔭
 i'm currently working on a Discord bot with multiple fonctions for any type of server
 ## What i'm currently learning 🌱
-Java Spring Framework
+React and Typescript
 ## Ask me about 💬
-Ask me how to sleep 😀
+how to sleep 😀
 ### ⚡ Fun fact: the prononciation of my first name its Lindsay without the letter d 
